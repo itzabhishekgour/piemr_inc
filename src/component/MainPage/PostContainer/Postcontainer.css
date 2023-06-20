@@ -1,0 +1,62 @@
+
+
+
+.post_contain{
+    width: 650px;
+    
+    margin: 20px 20px 20px 20px;
+}
+
+.post_header{
+    display: flex;
+    height: 65px;
+}
+
+.post_header_img{
+    margin: 15px;
+}
+
+.post_header_text{
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.post_describe{
+    display: flex;
+    margin-left: 15px;
+}
+
+.post_comment{
+    height: 50px;
+    align-items: left;
+    margin-left: 40%;
+}
+.post_tabing{
+    width: 25px;
+
+}
+
+.post_tab{
+    display: flex;
+}
+
+.uploadcom{
+    display: flex;
+}
+
+.uploadbox{
+    height: 40px;
+    width: 480px;
+    border-radius: 25px;
+    border: 0px;
+    background-color: #EFF2F5;
+    font-size: 16px;
+    padding-left: 20px;
+    margin: 15px;
+} 
+
+.up{
+    margin-top: 15px;
+    margin-left: 15px;
+}

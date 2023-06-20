@@ -1,0 +1,12 @@
+.Right_contain{
+ position: left;
+}
+
+.Right_header{
+ font-weight: 600px;
+ font-size: 30px;
+}
+
+.Right_footer{
+    overflow-y: scroll;
+}

@@ -1,0 +1,41 @@
+
+.pro-name{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
+
+.profile-pic3{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    align-content: center;
+}
+.profile-img > input{
+    /* display: none; */
+}
+
+.clg-name{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.clg_ID{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    align-content: left;
+}
+
+.enroll_no{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    align-content: left;
+}
