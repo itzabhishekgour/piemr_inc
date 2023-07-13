@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/piemr_inc/static/css/main.579f5876.css",
+    "main.js": "/piemr_inc/static/js/main.a733e4e6.js",
+    "static/js/787.acff7798.chunk.js": "/piemr_inc/static/js/787.acff7798.chunk.js",
+    "static/media/post.jpeg": "/piemr_inc/static/media/post.6334057da285bf679629.jpeg",
+    "static/media/268013286___n.jpg": "/piemr_inc/static/media/268013286_3055247758037799_676271078749313041_n.04f7e2f47dd1ffd27175.jpg",
+    "static/media/PIEMR-LOGO.png": "/piemr_inc/static/media/PIEMR-LOGO.afb99276f1f87b5b3da9.png",
+    "static/media/groups.svg": "/piemr_inc/static/media/groups.4226ca965efb29c021d68653e88784da.svg",
+    "static/media/home.svg": "/piemr_inc/static/media/home.70eb49d5008df8975f3907db75e9f981.svg",
+    "index.html": "/piemr_inc/index.html",
+    "static/media/messenger.svg": "/piemr_inc/static/media/messenger.56889735019842b4065e503e77367044.svg",
+    "main.579f5876.css.map": "/piemr_inc/static/css/main.579f5876.css.map",
+    "main.a733e4e6.js.map": "/piemr_inc/static/js/main.a733e4e6.js.map",
+    "787.acff7798.chunk.js.map": "/piemr_inc/static/js/787.acff7798.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579f5876.css",
+    "static/js/main.a733e4e6.js"
+  ]
+}
