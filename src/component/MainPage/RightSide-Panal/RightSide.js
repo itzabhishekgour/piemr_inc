@@ -14,35 +14,35 @@ class RightSide extends Component {
         let jsondata = [
             {
                 "image": Avt,
-                "text": "Akash Sharma"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Abhay Sharma"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Anand Gour"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Akash Sharma"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Abhay Sharma"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Akash Sharma"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Akash Sharma"
+                "text": "Unknown user"
             },
             {
                 "image": Avt,
-                "text": "Abhay Sharma"
+                "text": "Unknown user"
             }
         
         ]

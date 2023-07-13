@@ -25,7 +25,7 @@ class Postcontainer extends Component {
                 "post_ID": 2,
                 "user_id": 12345678,
                 "user_img": "url...",
-                "user_name": "Aastha tiwari",
+                "user_name": "Users",
                 "discription": "Share everyday moments ..",
                 "post_img": "",
 
